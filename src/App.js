@@ -49,7 +49,6 @@ function App() {
           placeholder="Enter Location"
           type="text"
         />
-        <button>favorits</button>
       </div>
       <div className="container">
         <div className="top">
